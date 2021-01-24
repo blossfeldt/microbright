@@ -1,7 +1,9 @@
 # microbright
 
 `brightup` and `brightdown` are extremely fast, tiny and specialized controls for increasing or decreasing device brightness.
+
 The new brightness level percentage is printed out as integer literal.
+
 This Program works very well in combination with [Sway](https://github.com/swaywm/sway) and [wob](https://github.com/francma/wob).
 
 
