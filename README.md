@@ -1,6 +1,6 @@
 # microbright
 
-`brightup` and `brightdown` are extremely fast, tiny and specialized controls for increasing or decreasing device brightness.
+`brightup` and `brightdown` are extremely fast, low-latency, tiny and one-purpose controls for increasing or decreasing device brightness.
 
 The new brightness level percentage is printed out as integer literal.
 
