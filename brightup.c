@@ -9,8 +9,7 @@ int main() {
 	fscanf (fp, "%d", &cur);
 
 	cur += 43;
-	if (cur > max)
-		cur = max;
+	cur = (cur > max) ? max : cur;
 
 	printf ("%d\n", cur * 100 / max);
 	fprintf (fp, "%d", cur);
